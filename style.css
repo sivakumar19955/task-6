@@ -1,0 +1,35 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.container{
+	           border: 1px solid black;
+    padding: 20px;
+    margin: 10px 552px;
+    background-color: #5ab65a;
+    color: antiquewhite;
+}	
+.section siva {
+    border: 1px solid beige;
+    width: 1140px;
+}
+.root{
+	text-align:center;
+	padding:30px;
+}
+.don{
+	text-align:center;
+        padding: 1px 0 18px 0;
+}
+.vino{
+	text-align:center;
+}
+a{
+	   border-color: #6dd05a;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #80d474;
+    color: antiquewhite;
+	text-decoration:none;
+}
+	
